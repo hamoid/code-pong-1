@@ -16,4 +16,6 @@ Coding game. Two people. Processing. First try.
 
 As for the game: yes, that sounds cool :)
 
+## Rules
 
+Clone the repo, edit max 5 lines (Example: add 2 lines, edit 2 lines, delete 1 line), push changes, wait for your turn, repeat :)
