@@ -19,3 +19,8 @@ As for the game: yes, that sounds cool :)
 ## Rules
 
 Clone the repo, edit max 5 lines (Example: add 2 lines, edit 2 lines, delete 1 line), push changes, wait for your turn, repeat :)
+
+## To be figured out
+
+* How do you know when it's your turn? Maybe at the top of the file we have a comment mentioning whose turn it is? So if I edit, I add you as next editor. Then more than 2 people could play.
+* Do comments compute as changed lines?
